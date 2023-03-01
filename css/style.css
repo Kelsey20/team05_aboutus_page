@@ -1,0 +1,75 @@
+
+.fl{
+    float: left;
+
+}
+
+.fr{
+    float: right;
+}
+
+.navigation{
+    height: 88px;
+    border-top: 100px;
+    background-color: #3F3425;
+}
+
+.navigation .logo{
+    margin:0 0 0 80px;
+    width: 88px;
+    height: 88px;
+    
+
+}
+
+.navigation .main{
+    margin-left: 40px;
+    height: 88px;
+    line-height: 88px;
+    font-size: x-large; 
+}
+
+.navigation .main a{
+    margin: 0 30px;
+    color: #FFF;
+}
+
+.navigation .logout{
+    margin-right: 100px;
+    height: 88px;
+    line-height: 88px;
+    font-size: x-large; 
+}
+
+.navigation .logout a{
+    color:  #FFF;
+}
+
+.container{
+    margin-bottom: -20px ;
+}
+
+.container .content{
+    position: absolute;
+    left: 50px;
+    top: 150px;
+    color: black;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 20%;
+
+}
+
+
+ .footer{
+    height: 100px;
+    background-color: #3F3425;
+   
+}
+
+.footer .copyright{
+    padding-top: 35px;
+    text-align: center;
+    color: #FFF;
+    
+}
